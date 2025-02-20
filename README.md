@@ -27,8 +27,8 @@ This repository contains two Python scripts designed to automate user management
 ## **Installation**
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/linux-user-management.git
-cd linux-user-management
+git clone https://github.com/minaramez/Linux-User-Management-Automation.git
+cd Linux-User-Management-Automation
 ```
 
 Ensure the scripts have execute permissions:
